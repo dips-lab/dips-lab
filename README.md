@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dips
 - 👀 I’m interested in smart contracts and data science. 
 - 🌱 I’m currently learning how to use python and solidity with natural sciences, IP contracts. 
-- 📫 How to reach me  - - - - on github. 
+- 📫 How to reach me  - - - - Text me anytime. :) 
 
 <!---
 dips-lab/dips-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
